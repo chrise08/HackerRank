@@ -37,6 +37,8 @@
 
 //===SOLUTION===
 
+"use strict";
+
 // Complete the countingValleys function below.
 function countingValleys(n, s) {
     let elev = 0;

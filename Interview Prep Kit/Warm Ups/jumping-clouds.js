@@ -32,6 +32,8 @@
 
 //===SOLUTION===
 
+"use strict";
+
 // Complete the jumpingOnClouds function below.
 function jumpingOnClouds(c) {
     let jumps = 0;
